@@ -4,7 +4,7 @@ A proba consiste na realización de pequenas aplicacións integrando linguaxes d
 
 Creé un nuevo directorio en Laragon (Unit4).
 Creé la estructura del proyecto  del Libro: Desarrollo web en entorno servidor Autor: Xabier Ganzágal Garcia.
-Damos forma a los archivos siguiendo la práctica del tema 4.
+Yo di forma a los archivos siguiendo las orientaciones del tema 4.
 Lo Instalé PhpMailer.
 Instalé Bootsrap y Saas.
 Después, llamé al intérprete de Saas.
