@@ -2,10 +2,12 @@
 
 A proba consiste na realización de pequenas aplicacións integrando linguaxes de marcado e linguaxes de guión. HTML+CSS+JS e PHP
 
-1-
-2-
-3-
-4-
+Creé un nuevo directorio en Laragon (Unit4).
+Creé la estructura del proyecto  del Libro: Desarrollo web en entorno servidor Autor: Xabier Ganzágal Garcia.
+Damos forma a los archivos siguiendo la práctica del tema 4.
+Lo Instalé PhpMailer.
+Instalé Bootsrap y Saas.
+Después, llamé al intérprete de Saas.
 
 ![carrito1](https://user-images.githubusercontent.com/91055703/153820529-aeb9cd93-ed96-4b40-ae74-f32ba84b313b.png)
 ![carrito2](https://user-images.githubusercontent.com/91055703/153820531-5769fc25-7a07-4bc8-a0e5-3c8c730142fa.png)
